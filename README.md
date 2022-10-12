@@ -1,7 +1,18 @@
-### Hi there 👋
+<div align=center><h3>Hi there 👋</h3>
 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+<h3>🌱Core Stack</h3>
+<a href="https://github.com/YunsHub" target="_blank"><img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=Android+Studio&logoColor=white"/></a>
+<a href="https://github.com/YunsHub" target="_blank"><img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+<a href="https://github.com/YunsHub" target="_blank"><img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+<a href="https://github.com/YunsHub" target="_blank"><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+
+  <h3>⚡Experience</h3>
+  <a href="https://github.com/YunsHub" target="_blank"><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+  <a href="https://github.com/YunsHub" target="_blank"><img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a> 
+  <a href="https://github.com/YunsHub" target="_blank"><img src="https://img.shields.io/badge/-C Sharp-239120?style=flat-square&logo=C+Sharp&logoColor=white"/></a>
+
+
+
 <!--
 **YunsHub/YunsHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
