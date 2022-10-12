@@ -9,7 +9,7 @@
     [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wkdrns3918)](https://solved.ac/wkdrns3918)
   
     
-      <div align=center><h3>🌱Most used language</h3>
+      <div align=center><h3>✨Most used language</h3>
 <!--언어 기본 틀-->
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunsHub&layout=Demo&theme=dracula)
   <!--스타일 옵션: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
