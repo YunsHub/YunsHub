@@ -1,7 +1,9 @@
 # KIM JUNG YUN 😉
 ![JungYun's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunsHub&show_icons=true&theme=radical)
 <br>
+<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdrns3918)](https://solved.ac/wkdrns3918/)
+<br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunsHub&layout=compact&theme=dark)](https://github.com/Yunshub/Yunshub)
 # 💪Skills
