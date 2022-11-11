@@ -3,8 +3,6 @@
 <br>
 <br>
 
-
-
 # 💪Skills
 ### Core Stack
 <a href="https://github.com/YunsHub" target="_blank"><img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=Android+Studio&logoColor=white"/></a>
