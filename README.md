@@ -1,5 +1,6 @@
 # KIM JUNG YUN 😉
-![JungYun's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunsHub&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=YunsHub&show_icons=true">
+
 <br>
 
 
