@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KIM%20JUNG%20YUN😉&fontSize=90&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KIM%20JUNG%20YUN🐬&fontSize=90&animation=fadeIn" />
 <div align=center>
 
 <img src="https://github-readme-stats.vercel.app/api?username=YunsHub&show_icons=true">
@@ -11,7 +11,7 @@
 
 
 
-# 🐬Skills
+# 📚Skills
   
 ### Core Stacks
 <a href="https://github.com/YunsHub" target="_blank"><img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=Android+Studio&logoColor=white"/></a>
