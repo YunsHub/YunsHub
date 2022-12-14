@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=KIM%20JUNG%20YUN😉&fontSize=90&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KIM%20JUNG%20YUN😉&fontSize=90&animation=fadeIn" />
 <div align=center>
 
 <img src="https://github-readme-stats.vercel.app/api?username=YunsHub&show_icons=true">
