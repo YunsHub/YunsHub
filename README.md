@@ -9,8 +9,6 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=wkdrns3918&theme=warm)
 
 
-
-
 # 📚Skills
   
 ### Core Stacks
