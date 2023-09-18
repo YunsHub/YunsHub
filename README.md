@@ -27,7 +27,7 @@
   ---
 ### 💻 Projects
 
-  ### 📖 [Sduty+](https://github.com/SdutyPlus/SdutyPlus)(2022.10.10 ~ ing)
+  ### 📖 [Sduty+](https://github.com/SdutyPlus/SdutyPlus)(2022.10 ~ 2022.11(6주))
   타임라인 공부 인증 스터디 앱 version2
 
   ### 🎵 [Indive](https://github.com/InDiveTeam/InDive)(2022.08 ~ 2022.10 (6주))
