@@ -21,8 +21,9 @@
   <a href="https://github.com/YunsHub" target="_blank"><img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a> 
   <a href="https://github.com/YunsHub" target="_blank"><img src="https://img.shields.io/badge/-C Sharp-239120?style=flat-square&logo=C+Sharp&logoColor=white"/></a>
   <a href="https://github.com/YunsHub" target="_blank"><img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
-### Blog
+### Blog & Portfolio
 <a href="https://jyunslog.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" /></a>
+<a href="https://shining-lake-398.notion.site/Kim-Jung-Yun-6b0983498e1c42a5a817df2d31de2dea?pvs=4"><img src="https://img.shields.io/badge/Portfolio-FF9800?style=flat&logo=Paypal&logoColor=white" /></a>
   
   ---
 ### 💻 Projects
